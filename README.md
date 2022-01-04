@@ -17,7 +17,7 @@
 
 <div align="center">
 
-  <img src="./icons_tools_language.png" alt="Tecnologias e Ferramentas" />
+  <img src="./icons_tools_language_v2.png" alt="Tecnologias e Ferramentas" />
 
   <br />
 
