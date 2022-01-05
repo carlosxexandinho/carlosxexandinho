@@ -12,12 +12,15 @@
 <h3 align="left">Linguagens e Ferramentas que uso:</h3>
 
 
+
 <div align="center">
 
   <img src="./icons_tools_language_v2.png" alt="Tecnologias e Ferramentas" />
 
-  <br />
+<br />
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosxexandinho&show_icons=true&locale=en&layout=compact" alt="carlosxexandinho" /></p>
+  ### Resumo de linguagens
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosxexandinho&show_icons=true&locale=en&layout=compact&theme=gotham" alt="carlosxexandinho" /></p>
 
 </div>
